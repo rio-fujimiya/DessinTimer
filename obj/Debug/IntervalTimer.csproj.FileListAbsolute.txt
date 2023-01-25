@@ -1,0 +1,10 @@
+C:\Workspace\IntervalTimer\IntervalTimer\bin\Debug\IntervalTimer.exe.config
+C:\Workspace\IntervalTimer\IntervalTimer\bin\Debug\IntervalTimer.exe
+C:\Workspace\IntervalTimer\IntervalTimer\bin\Debug\IntervalTimer.pdb
+C:\Workspace\IntervalTimer\IntervalTimer\obj\Debug\IntervalTimer.csprojAssemblyReference.cache
+C:\Workspace\IntervalTimer\IntervalTimer\obj\Debug\IntervalTimer.Form1.resources
+C:\Workspace\IntervalTimer\IntervalTimer\obj\Debug\IntervalTimer.Properties.Resources.resources
+C:\Workspace\IntervalTimer\IntervalTimer\obj\Debug\IntervalTimer.csproj.GenerateResource.cache
+C:\Workspace\IntervalTimer\IntervalTimer\obj\Debug\IntervalTimer.csproj.CoreCompileInputs.cache
+C:\Workspace\IntervalTimer\IntervalTimer\obj\Debug\IntervalTimer.exe
+C:\Workspace\IntervalTimer\IntervalTimer\obj\Debug\IntervalTimer.pdb
